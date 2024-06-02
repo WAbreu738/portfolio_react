@@ -10,7 +10,7 @@
 ## Description
 Welcome to my portfolio website! This website is built using React and showcases some of my projects, provides a short bio about myself, highlights my skills, and includes a contact form for reaching out.
 
-You can visit [the live demo]([https://wabreu.netlify.app/]) to check it out.
+You can visit [the live demo](https://wabreu.netlify.app/) to check it out.
 
 ## Features
 - Project Showcase: A detailed view of various projects I have worked on, including descriptions and technologies used.
